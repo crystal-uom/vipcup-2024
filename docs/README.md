@@ -32,8 +32,8 @@ VIP-Cup 2024 focuses on three key tasks in the analysis and processing of Optica
 Many captured OCT images are noisy, which can significantly reduce the accuracy of diagnosing eye-related diseases. De-noising is, therefore, a crucial step in OCT image analysis. This task is dedicated to the problem of OCT image de-noising. The objective is to de-noise the available noisy OCT B-scans and produce the best possible results.
 
 <!-- TODO: Add the noisy image to docs/images directory and change the follwoing image file path -->
-![Sample Noisy B-scan](noisy_oct_bscan.tiff)
-*Figure 1: A sample noisy B-scan*
+![Denoising](images/denoised_results.png)
+*Figure 1: Stages of Denoising*
 
 ### 2. Super-resolution
 
